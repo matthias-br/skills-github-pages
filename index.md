@@ -1,4 +1,1 @@
-**Test blog**
--
-For testing.
-
+Index
