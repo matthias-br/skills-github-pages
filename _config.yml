@@ -2,3 +2,4 @@ theme: hyde
 title: title
 author: author
 description: description
+show_excerpts: true
